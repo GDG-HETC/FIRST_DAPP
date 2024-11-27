@@ -56,7 +56,6 @@ Before you begin, make sure you have the following ready:
    - Open `main.js` in your cloned repository and replace the placeholders with your ABI and contract address:  
      ```javascript
      const contractAddress = "YOUR_DEPLOYED_CONTRACT_ADDRESS";
-     const contractABI = [/* Your contract ABI here */];
      ```
 
 3. **Run the Counter Dapp**  
