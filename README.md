@@ -1,8 +1,8 @@
 Here's a well-structured and descriptive README file for your First Dapp project: **A Counter Dapp**.
 
-# My First Dapp - A Counter Dapp 🚀
+# First Dapp - A Counter Dapp 🚀
 
-Welcome to **My First Dapp - A Counter Dapp**! This decentralized application demonstrates the use of Ethereum blockchain for simple state management through a counter that can be incremented. Follow this guide to set up, deploy, and run the Dapp.
+Welcome and create your **First Dapp - A Counter Dapp**! This decentralized application demonstrates the use of the Ethereum blockchain for simple state management through a counter that can be incremented. Follow this guide to set up, deploy, and run the Dapp.
 
 ---
 
